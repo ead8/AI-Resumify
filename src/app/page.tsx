@@ -30,14 +30,6 @@ export default function Home() {
           <Link href="/resumes">Get started</Link>
         </Button>
       </div>
-      <div>
-        <Image
-          src={resumePreview}
-          alt="Resume preview"
-          width={600}
-          className="shadow-md lg:rotate-[1.5deg]"
-        />
-      </div>
     </main>
   );
 }
