@@ -1,4 +1,4 @@
-# AI Resume Builder Pro
+# AI-Resumify Pro
 
 A modern full-stack SaaS application built with Next.js 15 that helps users create professional resumes powered by AI.
 

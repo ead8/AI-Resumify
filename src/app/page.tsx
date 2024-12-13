@@ -23,7 +23,7 @@ export default function Home() {
           in Minutes
         </h1>
         <p className="text-lg text-gray-500">
-          Our <span className="font-bold">AI resume builder</span> helps you
+          Our <span className="font-bold">AI-Resumify</span> helps you
           design a professional resume, even if you&apos;re not very smart.
         </p>
         <Button asChild size="lg" variant="premium">
